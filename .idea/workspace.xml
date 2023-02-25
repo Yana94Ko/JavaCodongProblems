@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4808d499-9bcd-4528-951b-2caaf4c4db00" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/String_cnt.java" afterDir="false" />
+    <list default="true" id="4808d499-9bcd-4528-951b-2caaf4c4db00" name="변경" comment="[JAVA Coding Problems_1 : String, Num and Math]&#10;1. String_cnt : 문자 개수 세기&#10; - Map, Stream을 통한 풀이&#10; - 유니코드 문자 분별을 위한 코드 추가">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +52,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677298341173</updated>
-      <workItem from="1677298342283" duration="4730000" />
+      <workItem from="1677298342283" duration="5455000" />
     </task>
+    <task id="LOCAL-00001" summary="[JAVA Coding Problems_1 : String, Num and Math]&#10;1. String_cnt : 문자 개수 세기&#10; - Map, Stream을 통한 풀이&#10; - 유니코드 문자 분별을 위한 코드 추가">
+      <created>1677304736992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677304736992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[JAVA Coding Problems_1 : String, Num and Math]&#10;1. String_cnt : 문자 개수 세기&#10; - Map, Stream을 통한 풀이&#10; - 유니코드 문자 분별을 위한 코드 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="[JAVA Coding Problems_1 : String, Num and Math]&#10;1. String_cnt : 문자 개수 세기&#10; - Map, Stream을 통한 풀이&#10; - 유니코드 문자 분별을 위한 코드 추가" />
   </component>
 </project>
